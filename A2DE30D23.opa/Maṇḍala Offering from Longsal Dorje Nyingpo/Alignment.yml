@@ -1,0 +1,16 @@
+segment_sources:
+  P40AF7077:
+    type: origin_type
+    relation: translation
+    language: en
+  PDCFFD598:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d10bfbb2fd004c69bf578316e8a8c567:
+    P40AF7077: ad5ee165679b46ca9bdc63d4f94725e7
+    PDCFFD598: e35388c10f6e4307a38402e832181b02
+  feb8fb4d00784c148ac8d4a48d6d8eb2:
+    P40AF7077: aec5f64908e943e8bd8730752e444078
+    PDCFFD598: 2914052738c54a3bb62b76e402016954
